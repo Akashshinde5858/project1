@@ -1,7 +1,8 @@
-class hello{
-public static void main(String[] args) {
-System.out.println("Hello, World!");
-System.out.println("CDAC NOIDA ");
+class Hello {
 
-}
+	public static void main(String[] args) {
+		
+System.out.print("Hello");
+	}
+
 }
